@@ -1,7 +1,7 @@
 <!--[](https://github.com/caidevOficial/Logos/blob/master/PoseidonDevs.png)-->
-<img align="center" src="https://github.com/caidevOficial/Logos/blob/master/PoseidonDevs.png" width=600/><br>
+<img align="center" src="https://github.com/caidevOficial/Logos/blob/master/PoseidonDevs.png" width=550/><br>
 
-<a href="https://github.com/caidevOficial/CaiShen_App">
+<a href="https://github.com/caidevOficial/Laboratorio1_Programacion1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
 </a>
 
