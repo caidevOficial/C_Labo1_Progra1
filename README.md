@@ -83,9 +83,10 @@ _Herramientas utilizadas para crear estos proyectos_
 * [Eclipse](https://www.eclipse.org/) 
 _en sus versiones_:
 ```
-Para TP[1-3], Parcial 1, Repaso Parcial 1.
+# Para TP[1-3], Parcial 1, Repaso Parcial 1.
 [v20.03 - 4.15.0](Build id: 20200313-1211) - El IDE usado en la version Windows y Linux.
-Para TP[3-4], Parciales 2, Repaso Parcial 2.
+
+# Para TP[3-4], Parciales 2, Repaso Parcial 2.
 [v20.06 - 4.16.0](Build id: 20200615-1200) - El IDE usado en la version Linux.
 ```
 
