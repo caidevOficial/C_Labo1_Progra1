@@ -95,7 +95,8 @@ _en sus versiones_:
 Quiza se implemente [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles.
 
 ## Releases 📌
-Podes ver las distintas versiones o releases dando clic en -> [Releases](https://github.com/caidevOficial/Laboratorio1_Programacion1) -->
+Podes ver las distintas versiones o releases dando clic en -> [Releases](https://github.com/caidevOficial/Laboratorio1_Programacion1/releases)
+
 ## Autor ✒️
 
 _Estos proyectos al día de hoy tienen un solo y único autor_
