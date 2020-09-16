@@ -1,5 +1,5 @@
 <!--[](https://github.com/caidevOficial/Logos/blob/master/PoseidonDevs.png)-->
-<img align="center" src="https://github.com/caidevOficial/Logos/blob/master/PoseidonDevs.png" width=550/><br>
+<img align="center" src="https://github.com/caidevOficial/Logos/blob/master/PoseidonDevs.png" width=500/><br>
 
 <a href="https://github.com/caidevOficial/Laboratorio1_Programacion1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
