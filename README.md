@@ -83,18 +83,18 @@ Este proyecto está bajo la Licencia [GNU GENERAL PUBLIC LICENSE v3.0] - mira el
             <tr>
                 <td><a href="https://github.com/caidevOficial/" target="_blank">
                         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
-                            width="80px" height="25px" /></td>
+                            width="110px" height="25px" /></td>
                 <td><a href="https://github.com/caidevOficial/">GitHub</a></td>
             </tr>
             <tr>
                 <td><a href="https://www.linkedin.com/in/facundo-falcone/" target="_blank">
-                </a><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="80px"
+                </a><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="110px"
                         height="25px" /></td>
                 <td><a href="https://www.linkedin.com/in/facundo-falcone/"><b>LinkedIn</b></a></td>
             </tr>
             <tr>
                 <td><a href='https://cafecito.app/caidevoficial/' rel='noopener' target='_blank'>
-                </a><img alt='Invitame un café en cafecito.app' srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' width="80px"
+                </a><img alt='Invitame un café en cafecito.app' srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' width="110px"
                 height="25px" /></td>
                 <td><a href="https://cafecito.app/caidevoficial/">CafecitoApp</a></td>
             </tr>
