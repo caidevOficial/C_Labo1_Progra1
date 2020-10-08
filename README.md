@@ -3,7 +3,7 @@
 
 <a href="https://github.com/caidevOficial/Laboratorio1_Programacion1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" width = "450"/>
-</a></br>
+</a><br><br>
 
 ```c
 int startCourse(){
