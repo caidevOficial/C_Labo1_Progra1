@@ -7,7 +7,7 @@
 
 ```c
 int startCourse(){
-    printf("Keep lLearning and Coding!");
+    printf("Keep Learning and Coding!");
     printf("Suscribe to my GitHub!");
     return 0;
 }
