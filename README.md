@@ -1,9 +1,17 @@
 <!--[](https://github.com/caidevOficial/Logos/blob/master/PoseidonDevs.png)-->
-<img align="center" src="https://github.com/caidevOficial/Logos/blob/master/PoseidonDevs.png" width=500/><br>
+<img align="center" src="https://github.com/caidevOficial/Logos/blob/master/PoseidonDevs.png" width=450/><br>
 
 <a href="https://github.com/caidevOficial/Laboratorio1_Programacion1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" width = "450"/>
+</a></br>
+
+```c
+int startCourse(){
+    printf("Keep lLearning and Coding!");
+    printf("Suscribe to my GitHub!");
+    return 0;
+}
+```
 
 # Laboratorio1 [Linux & Windows version]
 
