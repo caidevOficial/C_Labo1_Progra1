@@ -1,11 +1,18 @@
 /*
- ============================================================================
- Name        : RPPProgra1G.c
- Author      : FacuFalcone - CaiDev
- Version     :
- Copyright   : Software Libre
- Description : Hello World in C, Ansi-style
- ============================================================================
+ * Copyright (C) 2020 caidev
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 #include <stdio.h>
@@ -21,8 +28,8 @@ typedef struct{
 }ePais;
 
 /* Ejercicio 1 */
-void actualizarRecuperados(ePais pais[], int recuperadosDelDia){
-	pais->recuperados = pais->recuperados + recuperadosDelDia;
+void actualizarRecuperados(ePais pais, int recuperadosDelDia){
+	pais.recuperados = pais.recuperados + recuperadosDelDia;
 }
 
 /* Ejercicio 2 */
@@ -61,19 +68,19 @@ void ordenarCaracteres(char str[]){
 }
 
 int main(void) {
-	char ordenar[10] = {"facu"};
+	char ordenar[10] = {"algoritmo"};
 	char cadenaInvertida[10];
 	int recuperadosDelDia = 1000;
 					 //ID  Nombre     Inf   Rec  Muer
-	ePais pais[1] = {{1,"Argentina",50000,25000,900}};
+	ePais pais = {1,"Argentina",50000,25000,900};
 
 	actualizarRecuperados(pais, recuperadosDelDia);
-	printf("1 - Recuperados totales a hoy: %d\n",pais[0].recuperados);
+	printf("1 - Recuperados totales a hoy: %d\n",pais.recuperados);
 
 	strcpy(cadenaInvertida,invertirCadena(ordenar));
-	printf("2 - Cadena %s invertida queda %s\n","facu",cadenaInvertida);
+	printf("2 - Cadena %s invertida queda %s\n","algoritmo",cadenaInvertida);
 
 	ordenarCaracteres(ordenar);
-	printf("3 - cadena %s ordenada queda: %s\n","facu",ordenar);
+	printf("3 - cadena %s ordenada queda: %s\n","algoritmo",ordenar);
 	return EXIT_SUCCESS;
 }
