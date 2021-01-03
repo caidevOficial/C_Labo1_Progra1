@@ -1,8 +1,8 @@
 <a href="https://www.fra.utn.edu.ar/">
-  <img align="center" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/logo-utn.png" width = "450"/>
+  <img align="center" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/logo-utn.png" width = "350"/>
 </a><br><br>
 
-# Universidad Tecnológica Nacional - Laboratorio1 [Linux & Windows version]
+## Universidad Tecnológica Nacional - Laboratorio1 [Linux & Windows version]
 
 <img align="center" src="https://github.com/caidevOficial/Logos/blob/master/Personales/C_Poseidon.png" width=300/><br>
 
