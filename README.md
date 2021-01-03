@@ -2,6 +2,8 @@
   <img align="center" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/logo-utn.png" width = "450"/>
 </a><br><br>
 
+# Universidad Tecnológica Nacional - Laboratorio1 [Linux & Windows version]
+
 <img align="center" src="https://github.com/caidevOficial/Logos/blob/master/Personales/C_Poseidon.png" width=300/><br>
 
 ```c
@@ -11,8 +13,6 @@ int startCourse(){
     return EXIT_STATUS;
 }
 ```
-
-# Universidad Tecnológica Nacional - Laboratorio1 [Linux & Windows version]
 
 * Seccion: Material Referido a Laboratorio1.
 ## TP's 🚀
