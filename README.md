@@ -1,6 +1,14 @@
-<a href="https://www.fra.utn.edu.ar/">
-  <img align="center" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/logo-utn.png" width = "350"/>
-</a><br><br>
+<table>
+  <tr>
+  <td><a href="https://github.com/caidevOficial/CSharp_UTN_LaboII/" target="_blank"><img alt="Universidad Tecnológica Nacional" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/logo-utn_blanco.png" height="150px" /></td>
+  <td><img align="center" alt="C" src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" width="150px" height="150px" /></td>
+  </tr>
+</table></br>
+
+---
+
+# C exercises from UTN. 👨‍💻
+---
 
 ## Universidad Tecnológica Nacional - Laboratorio1 [Linux & Windows version]
 
