@@ -74,7 +74,7 @@ Podes ver las distintas versiones o releases dando clic en -> [Releases](https:/
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia [GNU GENERAL PUBLIC LICENSE v3.0] - mira el archivo [LICENSE.md](LICENSE) para detalles
+Este proyecto está bajo la Licencia [MIT] - mira el archivo [LICENSE.md](LICENSE) para detalles
 
 ## Donde encontrarme: 🌎
 
