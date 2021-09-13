@@ -18,7 +18,7 @@
 
 ## Universidad Tecnológica Nacional - Laboratorio1 [Linux & Windows version]
 
-<img align="center" src="https://github.com/caidevOficial/Logos/blob/master/Personales/C_Poseidon.png" width=300/><br>
+<img align="center" src="https://github.com/caidevOficial/Logos/blob/master/Personales/C_McFly_git.png" width=300/><br>
 
 ```c
 int startCourse(){
