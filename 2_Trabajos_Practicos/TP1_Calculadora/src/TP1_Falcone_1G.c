@@ -29,7 +29,7 @@
 // Directivas del preProcesador
 #include <stdio.h>
 #include <stdlib.h>
-#include "App.Header/ecuaciones.h"
+#include "App.Instance.h"
 
 /**
  *  @author	Facu Falcone "CaiDev"

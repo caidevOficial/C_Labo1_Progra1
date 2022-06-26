@@ -15,19 +15,21 @@
  *   You should have received a copy of the GNU General Public License
  *   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  * ============================================================================
- * Type: Recuperatorio segundo parcial - Laboratorio 1.
- * Version     : Beta 1.1.2 [Beta v1.1.2] - FacuFalcone_ABM_Pandemia_[Linux]
+ *
+ * Version     : Beta 3.3.0 [Beta v3.3.0] - FacuFalcone_LinkedList_SaintSeiya_[Linux]
  * ============================================================================
  */
 
 #ifndef __LINKEDLIST
 #define __LINKEDLIST
-struct Node{
+struct Node
+{
     void* pElement;                 //puntero al elemento (persona, empleado, etc.)
     struct Node* pNextNode;         //puntero al prox nodo
 }typedef Node;
 
-struct LinkedList{
+struct LinkedList
+{
     Node* pFirstNode;
     int size;                       //cada vez que agrego o elimino un elemento size++/--
 }typedef LinkedList;
@@ -53,5 +55,8 @@ int ll_containsAll(LinkedList* this,LinkedList* this2);
 LinkedList* ll_subList(LinkedList* this,int from,int to);
 LinkedList* ll_clone(LinkedList* this);
 int ll_sort(LinkedList* this, int (*pFunc)(void* ,void*), int order);
-LinkedList* ll_filter(LinkedList* this, int(*pFunc)(void*));
-LinkedList* ll_map(LinkedList* this, void* (*pFunc)(void*));
+LinkedList* ll_filter(LinkedList* zodiacArray, int(*pFunc)(void*));
+int ll_count(LinkedList* this, int (*pFunc)(void*));
+int counterLevel(void* pElement);
+int ll_map(LinkedList* this, float (*pFunc)(void*));
+int ll_Megasort(LinkedList *this, int (*pFunc)(void*, void*),int (*pFunc2)(void*, void*), int order);
